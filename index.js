@@ -30,5 +30,5 @@ class BoardMember{
 
 
 class Ceo {
-  
+
 }
